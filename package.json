@@ -1,0 +1,17 @@
+{
+  "name": "monster-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "monster": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "monster",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.0.0"
+  }
+}
